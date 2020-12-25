@@ -1,0 +1,39 @@
+nav{
+text-align:right;
+padding: 20px;	
+word-spacing:55px;		
+}
+
+a:hover
+{
+    background-color: rgb(14, 12, 14);
+    color: tomato;
+    
+    border: black 2px groove;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 400;
+    text-decoration: underline;
+
+}
+a:visited
+{
+    background-color: black;
+}
+
+img{
+width:1100px;
+height:300px;
+}
+
+p{
+text-align:justify;
+width:1100px;
+}
+
+a{
+text-decoration:none;
+margin-left:20px;
+color: black;
+
+}
